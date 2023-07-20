@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Bell MT;
+}
+
+
+body {
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    place-items: center;
+    background-color: goldenrod;
+}
+
+
+
+.input {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+    border: 10px;
+}
+
+
+.btn {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    color: blue;
+    margin-left: 1rem;
+    border: 10px;
+    background-color: grey;
+}
+
+
+
+ul {
+    list-style-type: none;
+}
